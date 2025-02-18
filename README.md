@@ -9,3 +9,6 @@ les dependences: security , devtools , spring web , lombock, mysql driver, data 
 3-Creation package model : 
   src->main->java->com.PFA.Freelance : creer package avec le nom model
   fel model koul wehd bch yasnae les classes mte3ou o yekteb el code tae kl classe
+
+
+
