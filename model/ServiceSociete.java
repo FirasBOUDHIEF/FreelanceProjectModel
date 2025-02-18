@@ -1,0 +1,13 @@
+package com.PFA.Freelance.model;
+
+public enum ServiceSociete {
+    ACHAT,
+    COMPTABILITE_FINANCE,
+    INGENIERIE_GESTION_PRODUIT,
+    MARKETING,
+    PRODUCTION,
+    RECHERCHE_DEVELOPPEMENT,
+    RESSOURCES_HUMAINES,
+    SERVICE_CLIENT,
+    VENTES;
+}
